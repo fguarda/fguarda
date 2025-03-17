@@ -5,9 +5,7 @@
 🔹 Explorando Rust para segurança cibernética e desenvolvimento seguro  
 
 💻 **Stack & Ferramentas**:  
-![Rust](https://img.shields.io/badge/Rust-000?style=for-the-badge&logo=rust&logoColor=white)  
-![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=white)  
-![Cybersecurity](https://img.shields.io/badge/Security-000?style=for-the-badge&logo=security&logoColor=white)  
+![Rust](https://img.shields.io/badge/Rust-000?style=for-the-badge&logo=rust&logoColor=white)  ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=white)  ![Cybersecurity](https://img.shields.io/badge/Security-000?style=for-the-badge&logo=security&logoColor=white)  
 
 📫 **Me encontre aqui**:  
 [![ProtonMail](https://img.shields.io/badge/Email-ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:seuemail@protonmail.com)  
